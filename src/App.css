@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.activeNavLink{
+  color:darkslategray;
+  font-weight:bold;
+}
+
+
+.line_height_50{
+  line-height: 50px !important;
+}
